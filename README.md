@@ -1,5 +1,5 @@
 # ALIŞVERİŞ web sitesi
-*SHOPPİNG website*
+*SHOPPING website*
 
 # Siteye ulaşmak için linke tıklayın 
 *Click to access shopping web site*
