@@ -4,7 +4,7 @@
 # Siteye ulaşmak için linke tıklayın 
 *Click to access shopping web site*
 
-## https://bkshopping.netlify.app/
+## https://bk-anime-shop.netlify.app/
 
 ## Project setup
 ```
