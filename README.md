@@ -1,4 +1,10 @@
-# shopping
+# ALIŞVERİŞ web sitesi
+*SHOPPİNG website*
+
+# Siteye ulaşmak için linke tıklayın 
+*Click to access shopping web site*
+
+## https://bkshopping.netlify.app/
 
 ## Project setup
 ```
